@@ -47,7 +47,8 @@ Learnt more about:
 * Logstic Regression.
 * Exploratory Data Analysis.
 * Feature Engineering.
-* Flas framework.
+* Flask framework.
+
 ## Related
 
 Here are some related projects
