@@ -40,6 +40,7 @@ def predict():
 
     predictionData = [Gender,Married,Dependents,Education,Self_Employed,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,TotalIncome]
     result = model.predict([predictionData])
+    print(predictionData,result)
     if result[0]==1:
         result = "will"
     else:
