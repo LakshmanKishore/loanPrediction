@@ -14,6 +14,7 @@ def Home():
 @app.route('/predict',methods=['POST'])
 def predict():
     data=dict(request.form)
+    print(data)
 
     Gender = 1 if data["Gender"][0]=="male" else 0
     Married = 1 if data["Married"][0]=="yes" else 0
