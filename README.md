@@ -7,53 +7,24 @@ Found dataset from [here](https://www.kaggle.com/altruistdelhite04/loan-predicti
 
 ## Tech Stack
 
-**Client:** HTML,CSS,Bootstrap
-
-**Server:** Flask
-
-  
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/LakshmanKishore/loanPrediction.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  pip install -r requirements.txt
-```
-
-Start the server
-
-```bash
-  python app.py
-```
-
+**Client:** HTML5, CSS, Bootstrap, JavaScript, py-script
   
 ## Lessons Learned
 
-I was able to link the Machine Learning Model to the web with help of Flask framework.
+I was able to link the machine learning model to the web with the help of the py-script framework. I learned about model deployment.
 
 Learnt more about:
 * Logstic Regression.
 * Exploratory Data Analysis.
 * Feature Engineering.
-* Flask framework.
+* How to use py-script framework.
 
 ## Related
 
 Here are some related projects
 
 * [Color Name Prediction](https://github.com/LakshmanKishore/colorNamePrediction)
+* [Iris Classification](https://github.com/LakshmanKishore/irisClassification)
 
 
-# You can watch the code live [here](https://lakshman-loanprediction.herokuapp.com)
+# You can watch the code live [here](https://lakshmankishore.github.io/loanPrediction)
